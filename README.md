@@ -1,1 +1,4 @@
-# PRIYANKAA
+calculator
+==========
+
+Calculator implemented in Python
